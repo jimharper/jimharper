@@ -1,0 +1,1 @@
+select * from tabcorp.fin.ledger_invoice_summary
